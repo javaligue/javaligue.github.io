@@ -1,0 +1,45 @@
+body, html{
+    height: 100%;
+}
+
+/*div{border: 1px solid red;}
+/* ===================== Navbar ===================== */
+header li:hover{
+    border-bottom: 1px solid rgba(255,255,255,.5);
+}
+
+
+/* ===================== Index ===================== */
+#y-index{
+    margin-top: -56px;
+    padding-top: 76px;
+    height: 90%;
+    background: linear-gradient(
+        rgba(30, 30, 30, 0.95),
+        rgba(30, 30, 30, 0.95)
+    ), url(../assets/img/neymar.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    font-family: 'Teko', sans-serif;
+    color: white;
+}
+
+#y-index .d-flex{
+    height: 100%;
+}
+
+#y-func{
+    background: linear-gradient(
+        rgba(30, 30, 30, 0.95),
+        rgba(30, 30, 30, 0.95)
+    ), url(../assets/img/estadio.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    font-family: 'Teko', sans-serif;
+    font-size: 1.5em;
+    color: white;
+}
